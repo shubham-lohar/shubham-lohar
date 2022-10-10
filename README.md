@@ -6,9 +6,9 @@
 ### 💻 My favorite stack:
 - ReactJS & Styled-Components
 - NodeJS & Express
-- GraphQL
 - Python
-- A little Typescript
+- TypeScript
+- GraphQL
 - HTML & CSS
 
 ### A little about myself:
