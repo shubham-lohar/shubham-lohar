@@ -12,9 +12,8 @@
 - HTML & CSS
 
 ### A little about myself:
-- I'm 23 years old, and I live in Indore, IND.
+- I'm 23 years old, and I live in Indore, INDIA.
 - I Love music & video games
-- I'm a little too addicted to coffee.
 
 
 <h1 align="center">
