@@ -4,15 +4,15 @@
 
 
 ### 💻 My favorite stack:
-- ReactJS & Styled-Components
+- ReactJS 
 - NodeJS & Express
-- Python
 - TypeScript
+- Python
 - GraphQL
 - HTML & CSS
 
 ### A little about myself:
-- I'm 23 years old, and I live in Indore, INDIA.
+- I'm 23 years old, and I live in India.
 - I Love music & video games
 
 
