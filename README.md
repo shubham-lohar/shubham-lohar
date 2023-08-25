@@ -13,7 +13,7 @@
 
 ### A little about myself:
 - I'm 23 years old, and I live in India.
-- I Love music & video games
+- I love music & video games
 
 
 <h1 align="center">
