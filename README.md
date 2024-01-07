@@ -5,7 +5,7 @@
 
 ### 💻 My favorite stack:
 - ReactJS 
-- NodeJS & Express
+- NodeJS
 - TypeScript
 - Python
 - GraphQL
