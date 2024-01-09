@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Shubham Lohar </h1>
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 
