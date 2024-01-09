@@ -7,7 +7,6 @@
 - ReactJS 
 - NodeJS
 - TypeScript
-- Python
 - GraphQL
 - HTML & CSS
 
