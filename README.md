@@ -11,7 +11,7 @@
 - HTML & CSS
 
 ### A little about myself:
-- I'm 23 years old, and I live in India.
+- I'm 24 years old.
 - I love music & video games
 
 <h1 align="center">
