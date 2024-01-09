@@ -3,7 +3,7 @@
 
 
 
-### 💻 My favorite stack:
+### 💻 Technologies:
 - ReactJS 
 - NodeJS
 - TypeScript
